@@ -21,7 +21,7 @@ This is a simple weather application that provides weather information for vario
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/SaswatBarai/weather-app.git
    ```
 
 2. Navigate to the project directory:
