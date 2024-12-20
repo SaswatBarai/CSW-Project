@@ -60,10 +60,6 @@ weather-app/
 ├── README.md       # Documentation
 ```
 
-## Screenshots
-
-![Weather App Screenshot](screenshot.png) *(Add a screenshot of the app here)*
-
 ## Future Improvements
 
 - Integrate a real-time weather API for dynamic data.
